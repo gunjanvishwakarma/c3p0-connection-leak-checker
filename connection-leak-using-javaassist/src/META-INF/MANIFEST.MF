@@ -1,0 +1,2 @@
+Manifest-Version: 1.0
+Premain-Class: com.novell.c3p0.connection.leak.checker.ConnectionLeakAgent

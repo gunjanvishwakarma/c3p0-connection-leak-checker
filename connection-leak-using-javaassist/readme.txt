@@ -1,0 +1,1 @@
+-Xbootclasspath/a:/opt/novell/zenworks/java/lib/javassist-3.18.2-GA.jar -javaagent:/opt/novell/c3p0Agent.jar
