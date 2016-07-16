@@ -1,4 +1,4 @@
-package com.novell.c3p0.connection.leak.checker;
+package com.gunjan.c3p0.connection.leak.checker;
 
 import java.lang.instrument.Instrumentation;
 
