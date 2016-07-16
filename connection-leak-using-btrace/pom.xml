@@ -6,10 +6,11 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/org.apache.commons/commons-lang3 -->
+		<!-- https://mvnrepository.com/artifact/commons-lang/commons-lang -->
 		<dependency>
-			<groupId>org.apache.commons</groupId>
-			<artifactId>commons-lang3</artifactId>
-			<version>3.4</version>
+			<groupId>commons-lang</groupId>
+			<artifactId>commons-lang</artifactId>
+			<version>2.6</version>
 		</dependency>
 		<dependency>
 			<groupId>btraceio</groupId>
