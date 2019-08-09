@@ -5,7 +5,8 @@ import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;
 
-import org.apache.commons.lang.exception.ExceptionUtils;
+
+import org.apache.commons.lang3.exception.ExceptionUtils;
 
 import com.sun.btrace.BTraceUtils;
 import com.sun.btrace.annotations.BTrace;
@@ -17,6 +18,7 @@ import com.sun.btrace.annotations.Return;
 import com.sun.btrace.annotations.Sampled;
 import com.sun.btrace.annotations.Self;
 import com.sun.btrace.annotations.Where;
+
 
 @BTrace(unsafe = true)
 class ConnectionLeakBTraceScript {
